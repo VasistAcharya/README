@@ -1,21 +1,19 @@
-# 👋 Hey, I'm Vasist Acharya  
+#  Hey, I'm Vasist Acharya  
 
-🎓 **B.Tech in Computer Science and Engineering (Specialization: Data Science)**  
-🚀 Aspiring **Data Engineer** passionate about **Big Data Systems, ETL Pipelines, and Cloud-based Analytics**  
-
----
-
-## 💡 About Me  
-- 💻 Currently exploring **Distributed Computing (Hadoop, Spark, Kafka)** and **Data Pipeline Automation (Airflow, AWS Glue)**  
-- ☁️ Experienced in building data infrastructure on **AWS (S3, Glue, Lambda, Athena, EC2, CloudFormation)**  
-- 🧠 Skilled in **ML & Analytics Integration** for intelligent data-driven systems  
-- 🔍 Interested in **Real-time Stream Processing, Data Lakehouse Architecture, and Scalable ETL Design**  
+ **B.Tech in Computer Science and Engineering (Specialization: Data Science)**  
+ Aspiring **Data Engineer** passionate about **Big Data Systems, ETL Pipelines, and Cloud-based Analytics**  
 
 ---
 
-## 🧰 Tech Stack  
+## About Me  
+-  Currently exploring **Distributed Computing (Hadoop, Spark, Kafka)** and **Data Pipeline Automation (Airflow, AWS Glue)**  
+-  Experienced in building data infrastructure on **AWS (S3, Glue, Lambda, Athena, EC2, CloudFormation)**  
+-  Skilled in **ML & Analytics Integration** for intelligent data-driven systems  
+-  Interested in **Real-time Stream Processing, Data Lakehouse Architecture, and Scalable ETL Design**  
 
-### 💾 **Data Engineering & Cloud**
+---
+
+## Stack  
 ![Apache Spark](https://img.shields.io/badge/-Apache_Spark-E25A1C?style=flat&logo=apachespark&logoColor=white)
 ![Hadoop](https://img.shields.io/badge/-Hadoop-66CCFF?style=flat&logo=apache&logoColor=black)
 ![Airflow](https://img.shields.io/badge/-Apache_Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white)
@@ -23,8 +21,6 @@
 ![AWS](https://img.shields.io/badge/-AWS-FF9900?style=flat&logo=amazonaws&logoColor=white)
 ![GCP](https://img.shields.io/badge/-Google_Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
-
-### 🧮 **Programming & Data Tools**
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-336791?style=flat&logo=postgresql&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
@@ -37,14 +33,14 @@
 
 ---
 
-## 🧠 Currently Learning  
+## Currently Learning  
 - Data Lakehouse Architectures (Snowflake, Redshift)  
 - Apache Airflow for Workflow Automation  
 - Real-time Analytics using Spark Structured Streaming  
 
 ---
 
-## 📊 GitHub Stats  
+##  GitHub Stats  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VasistAcharya&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VasistAcharya&layout=compact&theme=radical)  
 
